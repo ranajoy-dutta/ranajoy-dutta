@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Ranajoy Dutta
-#### I am Software Engineer
+#### Software Engineer
 A guy passionate about using his software engineering skills to build something creative and beautiful. Something that helps businesses grow, along-side helps world to be a better place.
 
 - 💬 Ask me about anything, I love tech talks. Let's catch-up. ☕ 
