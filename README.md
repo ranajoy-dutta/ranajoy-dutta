@@ -4,7 +4,7 @@ A guy passionate about using his software engineering skills to build something 
 
 - 💬 Ask me about anything, I love tech talks. Let's catch-up. ☕ 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranajoy?theme=light&font=Noto%20Sans%20Bengali&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Firefly_LC?theme=light&font=Noto%20Sans%20Bengali&ext=heatmap)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajoy-dutta&show_icons=true&count_private=true)  
 
