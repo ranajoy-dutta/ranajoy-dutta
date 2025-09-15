@@ -1,8 +1,8 @@
 ### Hi there 👋,
-#### Software Engineer
+#### Senior Software Engineer
 A guy passionate about using his software engineering skills to build something creative and meaningful. Something that helps businesses grow, along-side helps world to be a better place.
 
-- 💬 Ask me about anything, I love tech talks. Let's catch-up. ☕ 
+- 💬 Ask me about anything, I love tech talks.☕ 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Firefly_LC?theme=light&font=Noto%20Sans%20Bengali&ext=heatmap)
 
